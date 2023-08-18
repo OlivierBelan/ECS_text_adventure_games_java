@@ -1,0 +1,1 @@
+outside, outside the main entrance of the university, null, theatre, lab, pub, notebook, 2, computer, 100
