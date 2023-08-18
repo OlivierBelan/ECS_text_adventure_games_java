@@ -1,6 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "/home/olivier/Kent/Java/assement_2/zuul_graphique/**/*.jar"
-    ]
-}
